@@ -86,9 +86,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         current_mode.setAdapter(aa);
         display_mode.setAdapter(aa);
 
-//        current_mode.setOnClickListener(this);
-//        display_mode.setOnClickListener(this);
-
         dbref.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
