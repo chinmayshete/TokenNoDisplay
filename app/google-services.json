@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "600935874080",
+    "firebase_url": "https://tokendisplay-f8cf2-default-rtdb.firebaseio.com",
+    "project_id": "tokendisplay-f8cf2",
+    "storage_bucket": "tokendisplay-f8cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600935874080:android:60454e9088a0ab6b094645",
+        "android_client_info": {
+          "package_name": "com.example.tokennumberdisplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuEchxpLTcqsNNbcxLHPInguP3u8qJdUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

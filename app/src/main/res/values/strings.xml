@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TokenNumberDisplay</string>
+    <string name="select_mode_hint"> </string>
+</resources>
